@@ -1,0 +1,20 @@
+
+.IrrigationPlanner .greenbox{
+    color: white;
+    text-align: center;
+}
+.IrrigationPlanner .greenbox h5{
+    font-size: 1em;
+    opacity: 0.95;
+    letter-spacing: 0.1em;
+    line-height: 2.5em;
+}
+.IrrigationPlanner .cards{
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    margin: 0 auto;
+    background-color: white;
+    margin-top: -1.8em;
+    padding: 2em 1.3em;
+}

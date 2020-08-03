@@ -1,0 +1,21 @@
+.dropdowns .dropdown{
+    margin: 0.5em 0;
+}
+.dropdowns .dropdown label{
+    margin-bottom: 0.3em;
+    display: block;
+}
+.dropdowns .dropdown select{
+    width: 100%;
+    padding: 0.5em;
+    outline: none;
+    cursor: pointer;
+}
+.dropdowns .dropdown select option{
+    font-size: 1rem;
+}
+.dropdowns .dropdown select .planting-date{
+    background: white;
+    height: 500px;
+    width: 50%;
+}

@@ -1,0 +1,34 @@
+.card{
+     width: 31%;  
+     margin: 0em;
+     border: 1px solid lavender;
+     padding-bottom: 2em;
+}
+.card .imgContainer{
+    width: 100%;
+    height: 10em;
+}
+.card .imgContainer .img{
+    width: 100%;
+    height: 100%;
+}
+.card .cardBody{
+    padding: 0 1em;
+}
+.card .cardBody h3{
+    text-align: center;
+    color: #006633;
+    font-size: 1.4em;
+    text-transform: capitalize;
+}
+.card .cardBody a{
+    display: block;
+    margin: 0 auto;
+    width: 70%;
+    text-decoration: none;
+    text-align: center;
+    background-color: #006633;
+    color: white;
+    padding: 0.4em 0;
+    border-radius: 6px;
+}

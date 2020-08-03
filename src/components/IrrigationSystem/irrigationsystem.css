@@ -1,0 +1,30 @@
+/* .irrigationsystem{
+    
+} */
+.irrigationsystem .title{
+    background-color: #006633;
+    color: white;
+    padding: 0.7em 0.5em;
+}
+.irrigationsystem .body{
+    border: 1px solid lavender;
+    padding: 0.7em;
+}
+.irrigationsystem .body .row{
+    display: flex;
+    align-items: center;
+    margin-bottom: 0em;
+
+}
+.irrigationsystem .body .row .box{
+    background-color: #006633;
+    color: white;
+    padding: 1em 0.3em;
+    font-size: 0.9em;
+}
+.irrigationsystem .body .row h3{
+    font-weight: 500;
+    text-transform: capitalize;
+    font-size: 1em;
+    margin-left: 0.8em;
+}
